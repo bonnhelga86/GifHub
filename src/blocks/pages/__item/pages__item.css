@@ -1,0 +1,18 @@
+.pages__item {
+  text-decoration: none;
+  box-sizing: border-box;
+  min-width: 44px;
+  height: 40px;
+  padding: 8px 12px;
+  text-align: center;
+  color: var(--secondary-text);
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  border-radius: 8px;
+  display: inherit;
+}
+
+.pages__item:hover {
+  cursor: pointer;
+}

@@ -1,0 +1,30 @@
+.link {
+  display: block;
+  margin: 0 auto;
+  width: 240px;
+  padding: 16px 24px;
+  border: none;
+  background-color: var(--accent-purple);
+  color: #fff;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 32px;
+  border-radius: 12px;
+  text-decoration: none;
+  text-align: center;
+}
+
+.link:hover {
+  cursor: pointer;
+  background-color: var(--accent-purple-dark);
+}
+
+@media (max-width: 540px) {
+  .link {
+    width: 200px;
+    padding: 12px 24px;
+    color: #fff;
+    font-size: 16px;
+    line-height: 24px;
+  }
+}

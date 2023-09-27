@@ -1,0 +1,26 @@
+.pages__nav {
+  border: none;
+  text-decoration: none;
+  box-sizing: border-box;
+  text-align: center;
+  width: 100px;
+  padding: 8px 12px;
+  border-radius: 8px;
+  background: var(--accent-purple);
+  color: var(--inverted-text);
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+}
+
+.pages__nav:hover {
+  cursor: pointer;
+  background: var(--accent-purple-dark);
+}
+
+@media (max-width: 540px) {
+  .pages__nav {
+    width: 100%;
+    color: var(--inverted-text);
+  }
+}

@@ -1,0 +1,58 @@
+@import url(./vendor/normalize.css);
+@import url(./vendor/fonts/fonts.css);
+@import url(./blocks/page/page.css);
+/*THEMES*/
+@import url(./blocks/page/_light/page_light.css);
+@import url(./blocks/page/_dark/page_dark.css);
+/*HEADER*/
+@import url(./blocks/header/header.css);
+@import url(./blocks/header/__logo/header__logo.css);
+@import url(./blocks/header/__button-theme/header__button-theme.css);
+@import url(./blocks/header/__button-theme/_light/header__button-theme_light.css);
+@import url(./blocks/header/__button-theme/_dark/header__button-theme_dark.css);
+/*NAV BAR*/
+@import url(./blocks/nav//nav.css);
+@import url(./blocks/nav/__link/nav__link.css);
+@import url(./blocks/nav/__link/_active/nav__link_active.css);
+/*MAIN*/
+@import url(./blocks/container/container.css);
+@import url(./blocks/search-page-text/search-page-text.css);
+@import url(./blocks/search-page-text/_none/search-page-text_none.css);
+/*SEARCH*/
+@import url(./blocks/search/search.css);
+@import url(./blocks/search/__bar/search__bar.css);
+@import url(./blocks/search/__clear/search__clear.css);
+@import url(./blocks/search/__submit/search__submit.css);
+/*SUGGESTIONS*/
+@import url(./blocks/suggestions/suggestions.css);
+@import url(./blocks/suggestions/__item/suggestions__item.css);
+/*GIFS*/
+@import url(./blocks/gifs/gifs.css);
+@import url(./blocks/gifs/__item/gifs__item.css);
+@import url(./blocks/gifs/__image/gifs__image.css);
+@import url(./blocks/gifs/__title/gifs__title.css);
+@import url(./blocks/gifs/__title-text/gifs__title-text.css);
+/*GIF PAGE*/
+@import url(./blocks/gif-page/gif-page.css);
+@import url(./blocks/gif-page/__title/gif-page__title.css);
+@import url(./blocks/gif-page/__gif/gif-page__gif.css);
+/*PAGES*/
+@import url(./blocks/pages/pages.css);
+@import url(./blocks/pages/__nav/pages__nav.css);
+@import url(./blocks/pages/__item/pages__item.css);
+@import url(./blocks/pages/__item/_active/pages__item_active.css);
+@import url(./blocks/pages/__list/pages__list.css);
+/*RANDOM GIFs*/
+@import url(./blocks/random-gif/random-gif.css);
+@import url(./blocks/random-gif/__gif/random-gif__gif.css);
+/*FOOTER*/
+@import url(./blocks/footer/footer.css);
+@import url(./blocks/footer/__copyright/footer__copyright.css);
+/*ADDITIONAL*/
+@import url(./blocks/button/button.css);
+@import url(./blocks/link/link.css);
+@import url(./blocks/loader/loader.css);
+/*ERROR*/
+@import url(./blocks/error/error.css);
+@import url(./blocks/error/__code/error__code.css);
+@import url(./blocks/error/__text/error__text.css);

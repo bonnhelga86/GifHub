@@ -1,0 +1,26 @@
+.search__clear {
+  margin: 0;
+  padding: 16px;
+  width: 56px;
+  height: 56px;
+  border: none;
+  background: transparent url(../../../images/search__clear.svg) no-repeat center / contain;
+  background-size: 24px 24px;
+  position: absolute;
+  top: 0;
+  right: 56px;
+}
+
+.search__clear:hover {
+  cursor: pointer;
+  color: var(--accent-purple);
+}
+
+@media (max-width: 540px) {
+  .search__clear {
+    right: 44px;
+    background-size: 20px 20px;
+    width: 44px;
+    height: 44px;
+  }
+}
