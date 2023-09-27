@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/GifHub/static/css/main.b30a0b93.css",
-    "main.js": "/GifHub/static/js/main.65fa6ecb.js",
+    "main.js": "/GifHub/static/js/main.9c044d7f.js",
     "static/js/787.7501686e.chunk.js": "/GifHub/static/js/787.7501686e.chunk.js",
     "static/media/Roboto-700.woff": "/GifHub/static/media/Roboto-700.3f2cbde6b72e8d05669f.woff",
     "static/media/Roboto-400.woff": "/GifHub/static/media/Roboto-400.31012f9b3e3da44f87e8.woff",
@@ -14,11 +14,11 @@
     "static/media/search__clear.svg": "/GifHub/static/media/search__clear.f4f793072cadfcdced3e.svg",
     "index.html": "/GifHub/index.html",
     "main.b30a0b93.css.map": "/GifHub/static/css/main.b30a0b93.css.map",
-    "main.65fa6ecb.js.map": "/GifHub/static/js/main.65fa6ecb.js.map",
+    "main.9c044d7f.js.map": "/GifHub/static/js/main.9c044d7f.js.map",
     "787.7501686e.chunk.js.map": "/GifHub/static/js/787.7501686e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b30a0b93.css",
-    "static/js/main.65fa6ecb.js"
+    "static/js/main.9c044d7f.js"
   ]
 }
